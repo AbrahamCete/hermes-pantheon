@@ -1,0 +1,15 @@
+# Allowlist: only what users need is published. Everything else here stays local.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/LICENSES/
+!/plugin.yaml
+!/desktop/
+!/docs/
+
+!/media/
+/media/*
+!/media/banner.png
+!/media/cards/
+!/media/shots/
