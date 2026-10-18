@@ -58,28 +58,12 @@ The whole app changes on the spot, with no restart. Try `/skin hades` next, or p
 
 Click a card to see the full window.
 
-<table>
-  <tr>
-    <td width="50%"><a href="media/shots/olympus.png?v=0.2.0"><img src="media/cards/olympus.png?v=0.2.0" alt="Olympus: indigo and lavender, Zeus reaching for a star" /></a></td>
-    <td width="50%"><a href="media/shots/nyx.png?v=0.2.0"><img src="media/cards/nyx.png?v=0.2.0" alt="Nyx: pure black and white, the night goddess under her starfield" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="media/shots/hades.png?v=0.2.0"><img src="media/cards/hades.png?v=0.2.0" alt="Hades: charcoal and ember, the underworld throne" /></a></td>
-    <td width="50%"><a href="media/shots/poseidon.png?v=0.2.0"><img src="media/cards/poseidon.png?v=0.2.0" alt="Poseidon: abyssal teal and seafoam, the trident raised" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="media/shots/helios.png?v=0.2.0"><img src="media/cards/helios.png?v=0.2.0" alt="Helios: bronze and gold, the sun chariot" /></a></td>
-    <td width="50%"><a href="media/shots/selene.png?v=0.2.0"><img src="media/cards/selene.png?v=0.2.0" alt="Selene: slate and silver, the moon rising" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="media/shots/athena.png?v=0.2.0"><img src="media/cards/athena.png?v=0.2.0" alt="Athena: olive and sage, spear and owl" /></a></td>
-    <td width="50%"><a href="media/shots/aphrodite.png?v=0.2.0"><img src="media/cards/aphrodite.png?v=0.2.0" alt="Aphrodite: wine and rose, rising from the shell" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="media/shots/medusa.png?v=0.2.0"><img src="media/cards/medusa.png?v=0.2.0" alt="Medusa: black and acid green, Perseus and the gorgon" /></a></td>
-    <td width="50%"><a href="media/shots/caduceus.png?v=0.2.0"><img src="media/cards/caduceus.png?v=0.2.0" alt="Caduceus: parchment and ink, Hermes in flight" /></a></td>
-  </tr>
-</table>
+| [![Olympus: indigo and lavender, Zeus reaching for a star](media/cards/olympus.png?v=0.2.0)](media/shots/olympus.png?v=0.2.0) | [![Nyx: pure black and white, the night goddess under her starfield](media/cards/nyx.png?v=0.2.0)](media/shots/nyx.png?v=0.2.0) |
+|:---:|:---:|
+| [![Hades: charcoal and ember, the underworld throne](media/cards/hades.png?v=0.2.0)](media/shots/hades.png?v=0.2.0) | [![Poseidon: abyssal teal and seafoam, the trident raised](media/cards/poseidon.png?v=0.2.0)](media/shots/poseidon.png?v=0.2.0) |
+| [![Helios: bronze and gold, the sun chariot](media/cards/helios.png?v=0.2.0)](media/shots/helios.png?v=0.2.0) | [![Selene: slate and silver, the moon rising](media/cards/selene.png?v=0.2.0)](media/shots/selene.png?v=0.2.0) |
+| [![Athena: olive and sage, spear and owl](media/cards/athena.png?v=0.2.0)](media/shots/athena.png?v=0.2.0) | [![Aphrodite: wine and rose, rising from the shell](media/cards/aphrodite.png?v=0.2.0)](media/shots/aphrodite.png?v=0.2.0) |
+| [![Medusa: black and acid green, Perseus and the gorgon](media/cards/medusa.png?v=0.2.0)](media/shots/medusa.png?v=0.2.0) | [![Caduceus: parchment and ink, Hermes in flight](media/cards/caduceus.png?v=0.2.0)](media/shots/caduceus.png?v=0.2.0) |
 
 ## Switch any time
 
