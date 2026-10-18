@@ -1,4 +1,4 @@
-// The colonnade: ten columns, one open. Opening a column (click, arrow keys,
+// The colonnade: one column per theme, one open. Opening a column (click, arrow keys,
 // the /skin box, a name chip, or #name in the URL) swings it wide, reveals the
 // real screenshot through an ordered dither, and moves the page to its palette.
 ;(() => {
@@ -17,6 +17,8 @@
   }
 
   // ── Build the columns ───────────────────────────────────────────────────
+  document.documentElement.style.setProperty('--n', THEMES.length)
+
   const cols = THEMES.map(t => {
     const col = el('article', { className: 'col' })
     col.dataset.name = t.name

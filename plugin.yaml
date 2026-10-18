@@ -1,6 +1,6 @@
 name: hermes-pantheon
-version: "0.2.0"
-description: "Ten Hermes Desktop themes in dithered classical marble: Olympus, Nyx, Hades, Poseidon, Helios, Selene, Athena, Aphrodite, Medusa and Caduceus. Unofficial; not affiliated with Nous Research."
+version: "0.3.0"
+description: "Eighteen Hermes Desktop themes in dithered classical marble: all twelve Olympians plus Hades, Nyx, Helios, Selene and Medusa. Unofficial; not affiliated with Nous Research."
 author: Adolanium
 manifest_version: 1
 kind: standalone

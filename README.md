@@ -6,20 +6,21 @@
 
   # Pantheon
 
-  **Ten gods for your Hermes desktop.**
+  **Eighteen gods for your Hermes desktop.**
 
-  Ten themes for Hermes Desktop, each with its own myth and its own palette, drawn in dithered marble.
+  Eighteen themes for Hermes Desktop: all twelve Olympians, plus Hades, Nyx, Helios, Selene and Medusa.
+  Each one has its own myth, its own palette and its own lettering, drawn in dithered marble.
   Install once and switch with a word.
 
-  <sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; COMMUNITY THEMES &nbsp;·&nbsp; VERSION 0.2.0</sub>
+  <sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; COMMUNITY THEMES &nbsp;·&nbsp; VERSION 0.3.0</sub>
 
   <br /><br />
 
-  [See all ten live](https://adolanium.github.io/hermes-pantheon/) &nbsp;·&nbsp; [Try it in a minute](#try-it-in-a-minute) &nbsp;·&nbsp; [Meet the ten](#meet-the-ten) &nbsp;·&nbsp; [Switch any time](#switch-any-time)
+  [See all eighteen live](https://adolanium.github.io/hermes-pantheon/) &nbsp;·&nbsp; [Try it in a minute](#try-it-in-a-minute) &nbsp;·&nbsp; [Meet the eighteen](#meet-the-eighteen) &nbsp;·&nbsp; [Switch any time](#switch-any-time)
 
 </div>
 
-![Ten narrow columns side by side, one per theme, each with a dithered marble head at the top, the theme's name inscribed vertically in the middle, and a collage of statue fragments at the bottom, every column in its own palette from indigo to parchment](media/banner.png)
+![Eighteen narrow columns side by side, one per theme, each with a dithered marble head at the top, the theme's name inscribed vertically in the middle, and a collage of statue fragments at the bottom, every column in its own palette from indigo to parchment](media/banner.png)
 
 ## Try it in a minute
 
@@ -54,16 +55,20 @@ If it asks whether to enable the plugin, either answer works. That switch is for
 
 The whole app changes on the spot, with no restart. Try `/skin hades` next, or plain `/skin` to step through every theme you have.
 
-## Meet the ten
+## Meet the eighteen
 
 Click a card to see the full window.
 
-| [![Olympus: indigo and lavender, Zeus reaching for a star](media/cards/olympus.png?v=0.2.0)](media/shots/olympus.png?v=0.2.0) | [![Nyx: pure black and white, the night goddess under her starfield](media/cards/nyx.png?v=0.2.0)](media/shots/nyx.png?v=0.2.0) |
+| [![Olympus: deep indigo, Zeus reaching for the stars](media/cards/olympus.png?v=0.3.0)](media/shots/olympus.png?v=0.3.0) | [![Hera: cobalt and gold, the queen of the gods](media/cards/hera.png?v=0.3.0)](media/shots/hera.png?v=0.3.0) |
 |:---:|:---:|
-| [![Hades: charcoal and ember, the underworld throne](media/cards/hades.png?v=0.2.0)](media/shots/hades.png?v=0.2.0) | [![Poseidon: abyssal teal and seafoam, the trident raised](media/cards/poseidon.png?v=0.2.0)](media/shots/poseidon.png?v=0.2.0) |
-| [![Helios: bronze and gold, the sun chariot](media/cards/helios.png?v=0.2.0)](media/shots/helios.png?v=0.2.0) | [![Selene: slate and silver, the moon rising](media/cards/selene.png?v=0.2.0)](media/shots/selene.png?v=0.2.0) |
-| [![Athena: olive and sage, spear and owl](media/cards/athena.png?v=0.2.0)](media/shots/athena.png?v=0.2.0) | [![Aphrodite: wine and rose, rising from the shell](media/cards/aphrodite.png?v=0.2.0)](media/shots/aphrodite.png?v=0.2.0) |
-| [![Medusa: black and acid green, Perseus and the gorgon](media/cards/medusa.png?v=0.2.0)](media/shots/medusa.png?v=0.2.0) | [![Caduceus: parchment and ink, Hermes in flight](media/cards/caduceus.png?v=0.2.0)](media/shots/caduceus.png?v=0.2.0) |
+| [![Poseidon: abyssal teal and seafoam, the trident raised](media/cards/poseidon.png?v=0.3.0)](media/shots/poseidon.png?v=0.3.0) | [![Demeter: wheat on cream, the goddess of the harvest](media/cards/demeter.png?v=0.3.0)](media/shots/demeter.png?v=0.3.0) |
+| [![Athena: olive and sage, wisdom with a spear](media/cards/athena.png?v=0.3.0)](media/shots/athena.png?v=0.3.0) | [![Apollo: sky and lyre gold, the god of light and song](media/cards/apollo.png?v=0.3.0)](media/shots/apollo.png?v=0.3.0) |
+| [![Artemis: silver birch and forest green, the huntress](media/cards/artemis.png?v=0.3.0)](media/shots/artemis.png?v=0.3.0) | [![Ares: crimson on iron, the god of war](media/cards/mars.png?v=0.3.0)](media/shots/mars.png?v=0.3.0) |
+| [![Aphrodite: wine and rose, born from the sea foam](media/cards/aphrodite.png?v=0.3.0)](media/shots/aphrodite.png?v=0.3.0) | [![Hephaestus: iron and molten orange, the forge god at work](media/cards/hephaestus.png?v=0.3.0)](media/shots/hephaestus.png?v=0.3.0) |
+| [![Hestia: hearth clay on warm cream, the keeper of the fire](media/cards/hestia.png?v=0.3.0)](media/shots/hestia.png?v=0.3.0) | [![Dionysus: wine and vine, the god of revelry](media/cards/dionysus.png?v=0.3.0)](media/shots/dionysus.png?v=0.3.0) |
+| [![Caduceus: parchment and ink, the messenger in flight](media/cards/caduceus.png?v=0.3.0)](media/shots/caduceus.png?v=0.3.0) | [![Hades: charcoal and ember, the lord of the underworld](media/cards/hades.png?v=0.3.0)](media/shots/hades.png?v=0.3.0) |
+| [![Nyx: pure 1-bit night, the goddess under her starfield](media/cards/nyx.png?v=0.3.0)](media/shots/nyx.png?v=0.3.0) | [![Helios: bronze and gold, the sun chariot at full gallop](media/cards/helios.png?v=0.3.0)](media/shots/helios.png?v=0.3.0) |
+| [![Selene: slate and silver, the moon rising](media/cards/selene.png?v=0.3.0)](media/shots/selene.png?v=0.3.0) | [![Medusa: black and acid green, the gorgon's stare](media/cards/medusa.png?v=0.3.0)](media/shots/medusa.png?v=0.3.0) |
 
 ## Switch any time
 
@@ -75,15 +80,15 @@ Every Pantheon theme is a normal Hermes theme, so all the usual ways to switch w
 | **Command palette** | Press <kbd>Ctrl</kbd> <kbd>K</kbd> (<kbd>⌘</kbd> <kbd>K</kbd> on macOS), choose **Change theme**, and pick one. |
 | **Settings** | **Settings → Appearance → Theme**. |
 
-The names are `olympus`, `nyx`, `hades`, `poseidon`, `helios`, `selene`, `athena`, `aphrodite`, `medusa` and `caduceus`. To go back to the stock look, type `/skin nous`.
+The names are `olympus`, `hera`, `poseidon`, `demeter`, `athena`, `apollo`, `artemis`, `mars`, `aphrodite`, `hephaestus`, `hestia`, `dionysus`, `caduceus`, `hades`, `nyx`, `helios`, `selene` and `medusa`. To go back to the stock look, type `/skin nous`. Ares answers to `/skin mars`: Hermes keeps `ares` as an old name for its own Ember theme.
 
 Hermes remembers your choice for each profile, so a work profile can live on Olympus while a personal one lives on Hades.
 
 ## Small decisions, already made
 
-- **One install, ten themes.** All ten ship in a single plugin. There's nothing to choose at install time and nothing extra to download later.
+- **One install, eighteen themes.** All eighteen ship in a single plugin. There's nothing to choose at install time and nothing extra to download later.
 - **The art lives inside the plugin.** Every statue is a dithered image packed into `plugin.js`, and the fonts (IBM Plex) are bundled too, so themes switch instantly and work fully offline.
-- **Your light or dark setting can't break the art.** Each theme keeps its own palette in both modes. Caduceus is the light one; the other nine are dark.
+- **Your light or dark setting can't break the art.** Each theme keeps its own palette in both modes. Five are light (Demeter, Apollo, Artemis, Hestia and Caduceus); the other thirteen are dark.
 - **The accent picker still works.** Pick a custom accent in Settings and the theme keeps its art and framing.
 - **The chat stays readable.** The art sits in the sidebar and the empty new-session screen. Once a conversation starts, it's text on a calm ground.
 
@@ -117,7 +122,7 @@ The bracketed tabs, dotted rules and placement of the art style Hermes Desktop's
 
 <div align="center">
   <strong>Pantheon</strong><br />
-  <sub>Ten gods, one command.</sub>
+  <sub>Eighteen gods, one command.</sub>
 </div>
 
 <br />

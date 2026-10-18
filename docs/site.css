@@ -20,7 +20,8 @@
   --ease: cubic-bezier(0.22, 1, 0.36, 1);
   --swing: 760ms;
   --bar-h: 76px;
-  --closed: 64px;
+  --n: 10;
+  --closed: clamp(26px, calc((100vw - 860px) / (var(--n) - 1)), 64px);
   --display: 'Bodoni Moda', 'Didot', 'Bodoni 72', serif;
   --sans: 'Plex Sans', 'Segoe UI', system-ui, sans-serif;
   --mono: 'Plex Mono', ui-monospace, 'Cascadia Mono', monospace;
@@ -181,7 +182,7 @@ b { font-weight: 600; }
   position: absolute; left: 50%; top: 54%;
   transform: translate(-50%, -50%) rotate(180deg);
   writing-mode: vertical-rl; white-space: nowrap;
-  font: 800 1.35rem/1 var(--display); letter-spacing: 0.1em; text-transform: uppercase;
+  font: 800 min(1.35rem, calc(var(--closed) * 0.6))/1 var(--display); letter-spacing: 0.1em; text-transform: uppercase;
   font-variation-settings: 'opsz' 40;
   text-shadow: 0 0 6px var(--c-bg), 0 0 2px var(--c-bg);
   transition: letter-spacing 400ms var(--ease);
@@ -358,7 +359,7 @@ h2 { margin: 0; font: 900 clamp(2.2rem, 4.6vw, 3.8rem)/1 var(--display); letter-
 /* ── Narrow screens: the colonnade turns on its side ─────────────────── */
 
 @media (max-width: 1100px) {
-  :root { --closed: 52px; }
+  :root { --closed: clamp(24px, calc((100vw - 640px) / (var(--n) - 1)), 52px); }
   .offer span { display: none; }
 }
 
@@ -383,7 +384,7 @@ h2 { margin: 0; font: 900 clamp(2.2rem, 4.6vw, 3.8rem)/1 var(--display); letter-
   .install-link { margin-left: auto; height: 40px; }
 
   .colonnade { flex-direction: column; height: auto; }
-  .col { flex: none; height: 36px; border-right: 0; border-bottom: 1px dotted var(--c-hair); transition: none; }
+  .col { flex: none; height: 30px; border-right: 0; border-bottom: 1px dotted var(--c-hair); transition: none; }
   .col.is-open { flex: none; height: auto; }
   .col.is-open .col-body { position: relative; inset: auto; }
   .col-head { top: 0; bottom: 0; left: auto; right: 0; width: 46%; height: auto; background-position: 100% 30%; background-size: 220px auto;
