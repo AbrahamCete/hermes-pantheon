@@ -60,24 +60,24 @@ Click a card to see the full window.
 
 <table>
   <tr>
-    <td width="50%"><a href="media/shots/olympus.png"><img src="media/cards/olympus.png" alt="Olympus: indigo and lavender, Zeus reaching for a star" /></a></td>
-    <td width="50%"><a href="media/shots/nyx.png"><img src="media/cards/nyx.png" alt="Nyx: pure black and white, the night goddess under her starfield" /></a></td>
+    <td width="50%"><a href="media/shots/olympus.png?v=0.2.0"><img src="media/cards/olympus.png?v=0.2.0" alt="Olympus: indigo and lavender, Zeus reaching for a star" /></a></td>
+    <td width="50%"><a href="media/shots/nyx.png?v=0.2.0"><img src="media/cards/nyx.png?v=0.2.0" alt="Nyx: pure black and white, the night goddess under her starfield" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="media/shots/hades.png"><img src="media/cards/hades.png" alt="Hades: charcoal and ember, the underworld throne" /></a></td>
-    <td width="50%"><a href="media/shots/poseidon.png"><img src="media/cards/poseidon.png" alt="Poseidon: abyssal teal and seafoam, the trident raised" /></a></td>
+    <td width="50%"><a href="media/shots/hades.png?v=0.2.0"><img src="media/cards/hades.png?v=0.2.0" alt="Hades: charcoal and ember, the underworld throne" /></a></td>
+    <td width="50%"><a href="media/shots/poseidon.png?v=0.2.0"><img src="media/cards/poseidon.png?v=0.2.0" alt="Poseidon: abyssal teal and seafoam, the trident raised" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="media/shots/helios.png"><img src="media/cards/helios.png" alt="Helios: bronze and gold, the sun chariot" /></a></td>
-    <td width="50%"><a href="media/shots/selene.png"><img src="media/cards/selene.png" alt="Selene: slate and silver, the moon rising" /></a></td>
+    <td width="50%"><a href="media/shots/helios.png?v=0.2.0"><img src="media/cards/helios.png?v=0.2.0" alt="Helios: bronze and gold, the sun chariot" /></a></td>
+    <td width="50%"><a href="media/shots/selene.png?v=0.2.0"><img src="media/cards/selene.png?v=0.2.0" alt="Selene: slate and silver, the moon rising" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="media/shots/athena.png"><img src="media/cards/athena.png" alt="Athena: olive and sage, spear and owl" /></a></td>
-    <td width="50%"><a href="media/shots/aphrodite.png"><img src="media/cards/aphrodite.png" alt="Aphrodite: wine and rose, rising from the shell" /></a></td>
+    <td width="50%"><a href="media/shots/athena.png?v=0.2.0"><img src="media/cards/athena.png?v=0.2.0" alt="Athena: olive and sage, spear and owl" /></a></td>
+    <td width="50%"><a href="media/shots/aphrodite.png?v=0.2.0"><img src="media/cards/aphrodite.png?v=0.2.0" alt="Aphrodite: wine and rose, rising from the shell" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="media/shots/medusa.png"><img src="media/cards/medusa.png" alt="Medusa: black and acid green, Perseus and the gorgon" /></a></td>
-    <td width="50%"><a href="media/shots/caduceus.png"><img src="media/cards/caduceus.png" alt="Caduceus: parchment and ink, Hermes in flight" /></a></td>
+    <td width="50%"><a href="media/shots/medusa.png?v=0.2.0"><img src="media/cards/medusa.png?v=0.2.0" alt="Medusa: black and acid green, Perseus and the gorgon" /></a></td>
+    <td width="50%"><a href="media/shots/caduceus.png?v=0.2.0"><img src="media/cards/caduceus.png?v=0.2.0" alt="Caduceus: parchment and ink, Hermes in flight" /></a></td>
   </tr>
 </table>
 
