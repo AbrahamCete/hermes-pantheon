@@ -11,7 +11,7 @@
   Ten themes for Hermes Desktop, each with its own myth and its own palette, drawn in dithered marble.
   Install once and switch with a word.
 
-  <sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; COMMUNITY THEMES &nbsp;·&nbsp; VERSION 0.1.0</sub>
+  <sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; COMMUNITY THEMES &nbsp;·&nbsp; VERSION 0.2.0</sub>
 
   <br /><br />
 
@@ -116,7 +116,7 @@ Or use **Capabilities → Plugins**: switch **Pantheon** off to hide the themes,
 
 - **Theme registration** through the Desktop plugin SDK, the same way any theme plugin adds itself to the picker.
 - **Style rules** that apply only while a Pantheon theme is active, and disappear when you switch away.
-- **IBM Plex Sans and IBM Plex Mono**, bundled inside the plugin under the [SIL Open Font License](LICENSES/OFL-IBM-Plex.txt).
+- **IBM Plex Sans and IBM Plex Mono** for the interface, plus one display face per god for the HERMES AGENT wordmark, all bundled inside the plugin under the [SIL Open Font License](LICENSES).
 
 It makes no network requests, adds no agent tools, hooks, background processes or settings, and reads none of your data.
 
@@ -140,7 +140,7 @@ The bracketed tabs, dotted rules and placement of the art style Hermes Desktop's
 
 ## License
 
-[MIT](LICENSE). The bundled fonts, IBM Plex and Bodoni Moda (site only), are under the SIL Open Font License: see [LICENSES](LICENSES).
+[MIT](LICENSE). The bundled fonts are under the SIL Open Font License: IBM Plex, and the gods' wordmark faces (Silkscreen, Grenze Gotisch, Cinzel Decorative, Cinzel, Marcellus SC, Forum, Gloock, Metamorphous, IM Fell English SC), plus Bodoni Moda on the site. See [LICENSES](LICENSES).
 
 > **Community project**
 >
