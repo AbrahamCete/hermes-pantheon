@@ -93,14 +93,15 @@ Terminal skins are files, not part of the plugin switch, so copy them once after
 ```sh
 mkdir -p ~/.hermes/skins
 cp ~/.hermes/plugins/hermes-pantheon/cli/skins/*.yaml ~/.hermes/skins/
-hermes skin use olympus
+hermes skin use pantheon-olympus
 ```
 
-Inside a session, `/skin hades` switches too: the prompt, status bar and menus change right away, and the art shows on the next start (`hermes --tui` redraws it at once). Each profile keeps its own skins, so for a profile copy them into `~/.hermes/profiles/<name>/skins/` as well. `hermes skin use default` goes back to the stock look.
+Each skin is the god's name with `pantheon-` in front, so Hermes's own skins of the same name (Poseidon, for one) stay as they are and Desktop keeps the plugin themes with their art. Inside a session, `/skin pantheon-hades` switches too: the prompt, status bar and menus change right away, and the art shows on the next start (`hermes --tui` redraws it at once). Each profile keeps its own skins, so for a profile copy them into `~/.hermes/profiles/<name>/skins/` as well. `hermes skin use default` goes back to the stock look.
 
 - The art is tuned for dark terminals; on a light terminal the palette switches to its light variant, but the braille stays light.
 - The bust sits in the panel's left column. In the TUI that column takes up to 40% of the width, so the bust stays whole from 120 columns.
-- Pantheon's `poseidon` replaces the terminal's built-in Poseidon skin while installed. `hermes skin list` still shows the built-in's description.
+- Desktop also lists the terminal skins as plain themes (palette only, no art). For the full look in Desktop, pick the god without the `pantheon-` prefix.
+- Hermes shares the active skin between surfaces, so switching skin in the terminal also switches Desktop to that plain `pantheon-` theme. Pick the god without the prefix in Desktop again to get the art back.
 
 The skins are generated from the same art as the Desktop themes: `python3 cli/build_skins.py` (needs Pillow) rewrites `cli/skins/`.
 
