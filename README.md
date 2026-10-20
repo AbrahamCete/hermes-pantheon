@@ -84,6 +84,26 @@ The names are `olympus`, `hera`, `poseidon`, `demeter`, `athena`, `apollo`, `art
 
 Hermes remembers your choice for each profile, so a work profile can live on Olympus while a personal one lives on Hades.
 
+## In the terminal too
+
+The eighteen gods also come as skins for `hermes` in the terminal, both the classic interface and `hermes --tui`. Each skin draws the god's bust in braille beside the start panel, letters HERMES AGENT in the god's colours, and repaints the prompt, status bar and menus in the god's palette.
+
+Terminal skins are files, not part of the plugin switch, so copy them once after installing, and again after a plugin update:
+
+```sh
+mkdir -p ~/.hermes/skins
+cp ~/.hermes/plugins/hermes-pantheon/cli/skins/*.yaml ~/.hermes/skins/
+hermes skin use olympus
+```
+
+Inside a session, `/skin hades` switches too: the prompt, status bar and menus change right away, and the art shows on the next start (`hermes --tui` redraws it at once). Each profile keeps its own skins, so for a profile copy them into `~/.hermes/profiles/<name>/skins/` as well. `hermes skin use default` goes back to the stock look.
+
+- The art is tuned for dark terminals; on a light terminal the palette switches to its light variant, but the braille stays light.
+- The bust sits in the panel's left column. In the TUI that column takes up to 40% of the width, so the bust stays whole from 120 columns.
+- Pantheon's `poseidon` replaces the terminal's built-in Poseidon skin while installed. `hermes skin list` still shows the built-in's description.
+
+The skins are generated from the same art as the Desktop themes: `python3 cli/build_skins.py` (needs Pillow) rewrites `cli/skins/`.
+
 ## Small decisions, already made
 
 - **One install, eighteen themes.** All eighteen ship in a single plugin. There's nothing to choose at install time and nothing extra to download later.
